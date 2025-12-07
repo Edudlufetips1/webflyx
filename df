@@ -1,0 +1,42 @@
+[33mcommit b9165e596c51f1952fbc142f6f11b041b3d8616c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mupdate_titles[m[33m)[m
+Author: Edudlufetips1 <aq8829@outlook.com>
+Date:   Tue Dec 2 20:35:48 2025 -0500
+
+    G: titles after del add_classics
+
+[33mcommit 4cf3078a9993c4d303991547c2f3d17edf848e19[m
+Merge: cff8d2c b7fa5b9
+Author: Edudlufetips1 <aq8829@outlook.com>
+Date:   Tue Dec 2 20:28:45 2025 -0500
+
+    F: Merge branch 'add_classics'
+
+[33mcommit cff8d2c4fe69f8d20af7f17e20429231e98c490c[m
+Author: Edudlufetips1 <aq8829@outlook.com>
+Date:   Tue Dec 2 20:23:45 2025 -0500
+
+    E: contents1
+
+[33mcommit b7fa5b912a0b4d272a4bb5b9fefe12b08ad140ce[m
+Author: Edudlufetips1 <aq8829@outlook.com>
+Date:   Tue Dec 2 20:12:45 2025 -0500
+
+    D: webflyx1
+
+[33mcommit 5e7df032f0a56e73ac7b49a15eed4b7154f3c98d[m
+Author: Edudlufetips1 <aq8829@outlook.com>
+Date:   Mon Dec 1 18:07:28 2025 -0500
+
+    C: third commit
+
+[33mcommit 12445f7484008ddc42007c9ba2390dd82a73f6ba[m
+Author: Edudlufetips1 <aq8829@outlook.com>
+Date:   Mon Dec 1 17:44:00 2025 -0500
+
+    B: second commit
+
+[33mcommit 7c44929f2c544f0505be702e52a84dc505493f48[m
+Author: Edudlufetips1 <aq8829@outlook.com>
+Date:   Mon Dec 1 17:09:10 2025 -0500
+
+    A: add contents.md
